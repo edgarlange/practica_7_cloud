@@ -15,3 +15,5 @@ ec2_spec = {
 }
 
 enable_monitoring = 0
+
+sg_ingress_cidr = "190.140.80.94/32"
